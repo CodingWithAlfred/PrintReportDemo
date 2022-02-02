@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PrintReportForm
 {
-    public partial class Form1 : Form
+    public partial class PrintReportDemoForm : Form
     {
-        public Form1()
+        public PrintReportDemoForm()
         {
             InitializeComponent();
         }
